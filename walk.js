@@ -1305,7 +1305,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_3838.jpg", id:"_3838"},
+		{src:"https://github.com/pacgrafica/walkcode/blob/main/images/_3838.jpg?raw=true, id:"_3838"},
 		{src:"images/walk_atlas_1.png", id:"walk_atlas_1"},
 		{src:"images/walk_atlas_2.png", id:"walk_atlas_2"},
 		{src:"images/walk_atlas_3.png", id:"walk_atlas_3"},
